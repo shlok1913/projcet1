@@ -1,2 +1,2 @@
 # projcet1
-this a group project
+this a group project 
